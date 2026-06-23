@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Notebook scratch / backups
+*.bak
+*_Test.ipynb
+
+# Decompressed data (kept in repo as .gz)
+data/WSN1 - report.txt
+
+# Generated EPANET artefacts
+*.rpt
+WSN1_prepared.inp
+WSN1_temp.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env

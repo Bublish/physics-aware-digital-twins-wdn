@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+
+# Hydraulic simulation (EPANET via Python)
+epyt
+
+# Machine learning models
+scikit-learn
+xgboost
+pygam
+interpret        # Explainable Boosting Machine (EBM)
+
+# Hyperparameter optimisation
+scikit-optimize  # imported as skopt
+
+# Explainability
+shap
